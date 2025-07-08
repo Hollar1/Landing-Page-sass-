@@ -1,0 +1,7 @@
+/* @media   (min-width:470px) and (max-width:760px) {
+  .sec_03 article{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  }
+}
+ */
